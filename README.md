@@ -1,0 +1,1 @@
+Implementação de um programa em linguagem MIPS Assembly com os objetivos de calcular e exibir o 30º, 40º e 41º termos da sequência de Fibonacci, bem como calcular e exibir a razão áurea entre os termos de Fibonacci consecutivos. 
